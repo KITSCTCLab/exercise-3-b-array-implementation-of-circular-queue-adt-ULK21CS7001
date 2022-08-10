@@ -1,7 +1,7 @@
 class CircularQueue:
 
     #Constructor
-    def _init_(self):
+    def__init__(self):
         self.queue = list()
         self.head = 0
         self.tail = 0
